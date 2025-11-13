@@ -18,7 +18,7 @@
 
 ## 🎬 <a id="apresentacao"></a>Apresentação
 
-https://github.com/user-attachments/assets/257fd941-356b-492e-bf8a-0755a57a2e85
+https://github.com/user-attachments/assets/bf190e6f-1155-4088-bed2-9402ff8d0e50
 
 [![API Backend](https://img.shields.io/badge/API%20Backend-GitHub-blue?logo=github)](https://github.com/Igorcbraz/AmigoPet-api)
 
