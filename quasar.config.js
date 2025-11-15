@@ -48,9 +48,7 @@ export default defineConfig((ctx) => {
       // publicPath: '/',
       // analyze: true,
       env: {
-        API_URL: ctx.dev
-          ? 'http://localhost:3000/api'
-          : 'https://amigopet-api.onrender.com/api',
+        API_URL: 'https://amigopet-api.onrender.com/api',
       },
       // rawDefine: {}
       // ignorePublicFolder: true,
